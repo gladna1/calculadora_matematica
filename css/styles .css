@@ -50,15 +50,7 @@
     background-color: #c1c1c1;
 }
 
-#interface table td #painel #txt_operadores {
-    display: block;
-    width: 100%;
-    text-align: right;
-    font-size: .8rem;
-    color: #666;
-}
-
-#interface table td #painel #txt_display {
+#interface table  #painel #txt_operadores {
     display: block;
     width: 100%;
     text-align: right;
